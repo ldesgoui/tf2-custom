@@ -4,6 +4,8 @@
 
 Hold <YOUR KEY> for ~150ms and release it. If not back on the previous class, click <YOUR KEY> again.
 
+Download this file, place it in your cfg directory: https://raw.githubusercontent.com/ldesgoui/tf2_optimal_respawn_bind/master/orb.cfg
+
 In custom.cfg (or autoexec.cfg if not using mastercomfig):
 
     exec orb
