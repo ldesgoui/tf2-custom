@@ -1,0 +1,3 @@
+[submodule "hud"]
+	path = hud
+	url = https://github.com/Sevin7/7hud
