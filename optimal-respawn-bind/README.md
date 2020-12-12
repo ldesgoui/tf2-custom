@@ -23,4 +23,4 @@ A loadout switch bind is a common way to get respawning quickly, however it reli
 
 This script (`orb`) makes use of class changing instead, allowing for instantaneous respawn to another class, then another respawn to the previous class. There is a cooldown on class changes, however it is much shorter than the average loadout switch. In the case where you release too soon, the next press of the bind will immediately change back to the original class.
 
-There exists a special case for Medic, instead of changing class, the loadout switch bind is employed, as switching classes would make the player lose progress on ubercharge. You can enable this behavior on more classes (i.e.: Engineer) by appending `.medic` at the end of the `orb.current.1` aliases, similarly to how `orb.current.7` is defined. 
+There exists a special case for Medic, instead of changing class, the loadout switch bind is employed, as switching classes would make the player lose progress on ubercharge. You can enable this behavior on more classes (i.e.: Engineer) by appending `.medic` at the end of the `orb.current.6` aliases, similarly to how `orb.current.7` is defined. 
