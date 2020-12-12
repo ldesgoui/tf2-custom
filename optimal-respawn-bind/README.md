@@ -2,7 +2,7 @@
 
 ## Usage
 
-Hold `<YOUR KEY>` for ~150ms and release it. If not back on the previous class, click <YOUR KEY> again.
+Hold `<YOUR KEY>` for ~150ms and release it. If not back on the previous class, click `<YOUR KEY>` again without holding.
 
 Download this file, place it in your cfg directory: https://raw.githubusercontent.com/ldesgoui/tf2-custom/master/optimal-respawn-bind/cfg/orb.cfg
 
